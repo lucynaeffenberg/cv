@@ -49,6 +49,7 @@ dl {
 dt {
 	padding-left: 20px;
 	min-width: 130px;
+	font-weight: bold;
 }
 
 dd {
