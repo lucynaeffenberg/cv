@@ -54,3 +54,8 @@ dt {
 dd {
 	padding-right: 20px;
 }
+
+.lista {
+list-style-type: none;
+
+}
