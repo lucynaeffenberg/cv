@@ -1,8 +1,17 @@
 h1 {
 	text-align: center;
-	text-decoration: underline;
+	// text-decoration: underline;
 	font-style: italic;
 	padding-bottom: 50px;
+}
+
+h2 {
+	// text-decoration: underline;
+	font-style: italic;
+	padding-left: 20px;
+	font-size: 1.25rem;
+	background-color: grey;
+	color: silver;
 }
 
 h3 {
@@ -13,8 +22,9 @@ h3 {
 }
 
 main {
-	border: 2px solid black;
+	// border: 2px solid black;
 	border-radius: 50px 20px;
+	// overflow: hidden;
 }
 
 body {
