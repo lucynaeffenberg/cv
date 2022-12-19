@@ -6,15 +6,24 @@ h1 {
 }
 
 h3 {
-	text-align: right;
+	text-align: left;
 	text-decoration: underline;
 	font-style: italic;
-	padding-right: 20px;
+	padding-left: 20px;
+}
+
+main {
+	border: 2px solid black;
+	border-radius: 50px 20px;
 }
 
 body {
 	background-color: silver;
-	border: 2px solid black;
+}
+
+footer {
+	padding-top: 20px;
+	font-size: 10px;
 }
 
 p {
